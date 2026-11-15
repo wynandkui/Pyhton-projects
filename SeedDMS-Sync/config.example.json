@@ -1,0 +1,16 @@
+{
+  "source_directory": "/home/YOUR_USERNAME/Documents",
+  "webdav_url": "https://YOUR_SEEDDMS_SERVER/REPLACE_WITH_WEBDAV_PATH",
+  "username": "YOUR_SEEDDMS_USERNAME",
+  "credentials_file": "/home/YOUR_USERNAME/.config/seeddms-sync/credentials",
+  "ca_certificate": true,
+  "database": "/home/YOUR_USERNAME/.local/state/seeddms-sync/progress.sqlite3",
+  "log_file": "/home/YOUR_USERNAME/.local/state/seeddms-sync/sync.log",
+  "dry_run": true,
+  "allow_overwrite": false,
+  "delete_remote_files": false,
+  "excluded_directories": [],
+  "excluded_extensions": [],
+  "excluded_files": [],
+  "maximum_file_size_bytes": 104857600
+}
