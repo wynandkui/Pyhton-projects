@@ -133,3 +133,9 @@ after equipment replacement, operating system reinstallation or failure.
 
 Operational credentials, databases and document contents must be backed
 up separately using an appropriately secured backup system.
+
+## Upstream SeedDMS project
+
+Official upstream GitHub organization: [SeedDMS](https://github.com/SeedDMS).
+
+This synchronizer is an independent integration project. Consult the upstream organization for the SeedDMS application source and releases.
