@@ -1,0 +1,51 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Credentials and configuration
+config.json
+config.json.*
+*.env
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*credential*
+*token*
+*authorization*
+source_root_identity.json
+
+# Databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.bak
+*.backup
+
+# Logs and operational reports
+*.log
+*.log.*
+*.lock
+*.pid
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+*report.txt
+
+# Historical working copies
+*.pre-*
+
+# Test runtime data
+upload-test/
+
+# Operating system and editor files
+.DS_Store
+.idea/
+.vscode/
+*~
